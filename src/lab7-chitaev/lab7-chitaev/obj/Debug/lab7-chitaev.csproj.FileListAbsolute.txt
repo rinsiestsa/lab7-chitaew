@@ -1,0 +1,7 @@
+C:\Users\пк\Desktop\lab7-chitaev\src\lab7-chitaev\lab7-chitaev\bin\Debug\lab7-chitaev.exe.config
+C:\Users\пк\Desktop\lab7-chitaev\src\lab7-chitaev\lab7-chitaev\bin\Debug\lab7-chitaev.exe
+C:\Users\пк\Desktop\lab7-chitaev\src\lab7-chitaev\lab7-chitaev\bin\Debug\lab7-chitaev.pdb
+C:\Users\пк\Desktop\lab7-chitaev\src\lab7-chitaev\lab7-chitaev\obj\Debug\lab7-chitaev.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\lab7-chitaev\src\lab7-chitaev\lab7-chitaev\obj\Debug\lab7-chitaev.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\lab7-chitaev\src\lab7-chitaev\lab7-chitaev\obj\Debug\lab7-chitaev.exe
+C:\Users\пк\Desktop\lab7-chitaev\src\lab7-chitaev\lab7-chitaev\obj\Debug\lab7-chitaev.pdb
